@@ -1,9 +1,90 @@
-<mxfile host="app.diagrams.net" modified="2023-07-14T21:47:13.904Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" version="21.6.2" etag="03O5GLMyZjaUfllqKO_q" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-14T23:07:05.524Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="OXKlhaaJh7cJV2QpKAwi" version="21.6.2" type="github">
   <diagram name="Page-1" id="TEvxliujrUGIelIvYV01">
-    <mxGraphModel>
+    <mxGraphModel dx="2284" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="RX8IUexeTp1fSYsJkxbU-1" value="Algorithm" style="swimlane;fontStyle=3;childLayout=stackLayout;horizontal=1;startSize=28;horizontalStack=1;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;swimlaneFillColor=none;fontFamily=Permanent Marker;fontSize=16;points=[];verticalAlign=top;stackBorder=0;resizable=1;strokeWidth=2;sketch=1;disableMultiStroke=1;" vertex="1" parent="1">
+          <mxGeometry x="-205" y="30" width="540" height="440" as="geometry" />
+        </mxCell>
+        <object label="" status="New" id="RX8IUexeTp1fSYsJkxbU-2">
+          <mxCell style="swimlane;strokeWidth=2;fontFamily=Permanent Marker;html=0;startSize=1;verticalAlign=bottom;spacingBottom=5;points=[];childLayout=stackLayout;stackBorder=20;stackSpacing=20;resizeLast=0;resizeParent=1;horizontalStack=0;collapsible=0;sketch=1;strokeColor=none;fillStyle=solid;fillColor=#A0522D;" vertex="1" parent="RX8IUexeTp1fSYsJkxbU-1">
+            <mxGeometry y="28" width="180" height="420" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="for içinde i değişkenini = 0 tanımla&lt;br&gt;ilk çıktı 0 olacağı için(ilk index)" placeholders="1" id="RX8IUexeTp1fSYsJkxbU-3">
+          <mxCell style="whiteSpace=wrap;html=1;strokeWidth=2;fontStyle=1;spacingTop=0;rounded=1;arcSize=9;points=[];sketch=1;fontFamily=Permanent Marker;hachureGap=8;fillWeight=1;" vertex="1" parent="RX8IUexeTp1fSYsJkxbU-2">
+            <mxGeometry x="20" y="21" width="140" height="80" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="" placeholders="1" id="RX8IUexeTp1fSYsJkxbU-4">
+          <mxCell style="whiteSpace=wrap;html=1;strokeWidth=2;fontStyle=1;spacingTop=0;rounded=1;arcSize=9;points=[];sketch=1;fontFamily=Permanent Marker;hachureGap=8;fillWeight=1;" vertex="1" parent="RX8IUexeTp1fSYsJkxbU-2">
+            <mxGeometry x="20" y="121" width="140" height="80" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="" placeholders="1" id="RX8IUexeTp1fSYsJkxbU-5">
+          <mxCell style="whiteSpace=wrap;html=1;strokeWidth=2;fontStyle=1;spacingTop=0;rounded=1;arcSize=9;points=[];sketch=1;fontFamily=Permanent Marker;hachureGap=8;fillWeight=1;" vertex="1" parent="RX8IUexeTp1fSYsJkxbU-2">
+            <mxGeometry x="20" y="221" width="140" height="80" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="RX8IUexeTp1fSYsJkxbU-6" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;1- Start By Defining The Problem&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="RX8IUexeTp1fSYsJkxbU-2">
+          <mxGeometry x="20" y="321" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RX8IUexeTp1fSYsJkxbU-7" value="4- Write The Code&lt;p style=&quot;border-color: var(--border-color); margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-stretch: normal; line-height: normal; color: rgb(228, 0, 237); min-height: 14px; text-align: start;&quot; class=&quot;p2&quot;&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="RX8IUexeTp1fSYsJkxbU-2">
+          <mxGeometry x="20" y="371" width="140" height="29" as="geometry" />
+        </mxCell>
+        <object label="" status="New" id="RX8IUexeTp1fSYsJkxbU-8">
+          <mxCell style="swimlane;strokeWidth=2;fontFamily=Permanent Marker;html=0;startSize=1;verticalAlign=bottom;spacingBottom=5;points=[];childLayout=stackLayout;stackBorder=20;stackSpacing=20;resizeLast=0;resizeParent=1;horizontalStack=0;collapsible=0;sketch=1;strokeColor=none;fillStyle=solid;fillColor=#A0522D;" vertex="1" parent="RX8IUexeTp1fSYsJkxbU-1">
+            <mxGeometry x="180" y="28" width="180" height="412" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="koşul için, sayac &amp;lt; n&amp;nbsp;" placeholders="1" id="RX8IUexeTp1fSYsJkxbU-9">
+          <mxCell style="whiteSpace=wrap;html=1;strokeWidth=2;fontStyle=1;spacingTop=0;rounded=1;arcSize=9;points=[];sketch=1;fontFamily=Permanent Marker;hachureGap=8;fillWeight=1;" vertex="1" parent="RX8IUexeTp1fSYsJkxbU-8">
+            <mxGeometry x="20" y="21" width="140" height="80" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="" placeholders="1" id="RX8IUexeTp1fSYsJkxbU-10">
+          <mxCell style="whiteSpace=wrap;html=1;strokeWidth=2;fontStyle=1;spacingTop=0;rounded=1;arcSize=9;points=[];sketch=1;fontFamily=Permanent Marker;hachureGap=8;fillWeight=1;" vertex="1" parent="RX8IUexeTp1fSYsJkxbU-8">
+            <mxGeometry x="20" y="121" width="140" height="80" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="" placeholders="1" id="RX8IUexeTp1fSYsJkxbU-11">
+          <mxCell style="whiteSpace=wrap;html=1;strokeWidth=2;fontStyle=1;spacingTop=0;rounded=1;arcSize=9;points=[];sketch=1;fontFamily=Permanent Marker;hachureGap=8;fillWeight=1;" vertex="1" parent="RX8IUexeTp1fSYsJkxbU-8">
+            <mxGeometry x="20" y="221" width="140" height="80" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="RX8IUexeTp1fSYsJkxbU-12" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;2- Break The Problem Down İnto Smaller Steps&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="RX8IUexeTp1fSYsJkxbU-8">
+          <mxGeometry x="20" y="321" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RX8IUexeTp1fSYsJkxbU-13" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;5- Test The Code&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="RX8IUexeTp1fSYsJkxbU-8">
+          <mxGeometry x="20" y="371" width="140" height="9" as="geometry" />
+        </mxCell>
+        <object label="" status="Completed" id="RX8IUexeTp1fSYsJkxbU-14">
+          <mxCell style="swimlane;strokeWidth=2;fontFamily=Permanent Marker;html=0;startSize=1;verticalAlign=bottom;spacingBottom=5;points=[];childLayout=stackLayout;stackBorder=20;stackSpacing=20;resizeLast=0;resizeParent=1;horizontalStack=0;collapsible=0;sketch=1;strokeColor=none;fillStyle=solid;fillColor=#1BA1E2;" vertex="1" parent="RX8IUexeTp1fSYsJkxbU-1">
+            <mxGeometry x="360" y="28" width="180" height="412" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="i yazdır, i &#39; yi başka bir değişkene ata(bir önceki i &#39; yi günceli ile toplayabilmek için)" placeholders="1" id="RX8IUexeTp1fSYsJkxbU-15">
+          <mxCell style="whiteSpace=wrap;html=1;strokeWidth=2;fontStyle=1;spacingTop=0;rounded=1;arcSize=9;points=[];sketch=1;fontFamily=Permanent Marker;hachureGap=8;fillWeight=1;" vertex="1" parent="RX8IUexeTp1fSYsJkxbU-14">
+            <mxGeometry x="20" y="21" width="140" height="80" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="" placeholders="1" id="RX8IUexeTp1fSYsJkxbU-16">
+          <mxCell style="whiteSpace=wrap;html=1;strokeWidth=2;fontStyle=1;spacingTop=0;rounded=1;arcSize=9;points=[];sketch=1;fontFamily=Permanent Marker;hachureGap=8;fillWeight=1;" vertex="1" parent="RX8IUexeTp1fSYsJkxbU-14">
+            <mxGeometry x="20" y="121" width="140" height="80" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="" placeholders="1" id="RX8IUexeTp1fSYsJkxbU-17">
+          <mxCell style="whiteSpace=wrap;html=1;strokeWidth=2;fontStyle=1;spacingTop=0;rounded=1;arcSize=9;points=[];sketch=1;fontFamily=Permanent Marker;hachureGap=8;fillWeight=1;" vertex="1" parent="RX8IUexeTp1fSYsJkxbU-14">
+            <mxGeometry x="20" y="221" width="140" height="80" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="RX8IUexeTp1fSYsJkxbU-18" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;3- Use Pseudocode To Describe The Algorithm&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="RX8IUexeTp1fSYsJkxbU-14">
+          <mxGeometry x="20" y="321" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RX8IUexeTp1fSYsJkxbU-20" value="&lt;div&gt;function fibonacciGenerator(n) {&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp; var guncel = 1;&lt;/div&gt;&lt;div&gt;&amp;nbsp; var onceki = 0;&lt;/div&gt;&lt;div&gt;&amp;nbsp; let arr = [];&lt;/div&gt;&lt;div&gt;&amp;nbsp; arr.push(0);&lt;/div&gt;&lt;div&gt;&amp;nbsp; for (var i = 1; i &amp;lt; n; i++) {&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; guncel = guncel + onceki;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; onceki = guncel;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; arr.push(guncel);&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp; }&lt;/div&gt;&lt;div&gt;&amp;nbsp; console.log(arr);&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;}&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="335" y="393" width="190" height="260" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
